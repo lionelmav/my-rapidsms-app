@@ -1,4 +1,4 @@
-.project
-.pydevproject
+*.project
+*.pydevproject
 rapidsms-tut-venv
 db.sqlite3
